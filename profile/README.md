@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Testland: quality engineering for AI coding agents" width="100%">
+
 # Testland
 
 Testland makes quality engineering tools for software teams.
